@@ -24,9 +24,9 @@ My current Conky config
 
 ### Requirements
 
-**Requires**: hddtemp, lm-sensors and lsb-release
+**Requires**: lm-sensors and lsb-release
 
-**Install**: ```# apt install conky-all hddtemp lm-sensors lsb-release```
+**Install**: ```# apt install conky-all lm-sensors lsb-release```
 
 ### And what now?
 
