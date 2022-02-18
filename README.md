@@ -6,7 +6,7 @@ My current Conky config
 <img src="images/preview.png">
 
 
-** Author**: *Koratsuki*
+**Author**: *Koratsuki*
 
 **Twitter**: *https://twitter.com/Koratsuki84*
 
@@ -42,11 +42,7 @@ Put that line on system start, and you're done!
 
 ## Notes
 
-*Note 1: Remember to dpkg-reconfigure hddtemp to measure HDD temp and enable start on boot*
-
-*Note 2: Since Conky 1.10.x, configuration files have been written with a new Lua syntax. I provide both config file if needed.*
-
-*Note 3: I use Devuan, and Devuan uses old style networking interfaces names, so, you might change wlan0 and eth0 for wlp5s0 and enp0s1. Thanks systemd/udev.*
+*Note 1: I use Devuan, and Devuan uses old style networking interfaces names, so, you might change wlan0 and eth0 for wlp5s0 and enp0s1. Thanks systemd/udev.*
 
 Read this:
 
