@@ -45,7 +45,7 @@ Put that line on system start, and you're done!
 |:--:|
 | *Image 2. Cryptos preview widget.* |
 
-**Note:** Requires **curl** and **jq**. And the files:
+**Note:** Requires font FontAwesome on the system, **curl** and **jq**. And the files:
 
 [cryptos.cfg](./cryptos.cfg)
 
