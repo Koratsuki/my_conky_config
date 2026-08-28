@@ -46,7 +46,9 @@ Put that line on system start, and you're done!
 | *Image 2. Cryptos preview widget.* |
 
 **Note:** Requires **curl** and **jq**. And the files:
+
 [cryptos.cfg](./cryptos.cfg)
+
 [get_crypto_formatted.sh](./get_crypto_formatted.sh)
 
 
