@@ -1,10 +1,9 @@
 My current Conky config
 ==
 
-[Preview](images/preview.png "Preview")
-
-<img src="images/preview.png">
-
+| ![Image 1. Conky preview. ](images/preview.png) |
+|:--:|
+| *Image 1. Conky preview.* |
 
 **Author**: *Koratsuki*
 
