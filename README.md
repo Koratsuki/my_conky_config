@@ -39,6 +39,14 @@ And call the config file with:
 
 Put that line on system start, and you're done!
 
+### Cryptos
+
+| ![Image 2. Cryptos preview widget. ](images/cryptos.jpg) |
+|:--:|
+| *Image 2. Cryptos preview widget.* |
+
+
+
 ## Notes
 
 *Note 1: I use Devuan, and Devuan uses old style networking interfaces names, so, you might change wlan0 and eth0 for wlp5s0 and enp0s1. Thanks systemd/udev.*
